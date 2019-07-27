@@ -1,2 +1,3 @@
 # hello-world
-the first repository
+the first repo
+I want to be developer
